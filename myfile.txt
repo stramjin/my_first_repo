@@ -2,3 +2,4 @@ LINE ONE
 LINE TWO
 LINE THREE
 Continue working on Main branch - 2
+Zahajeno editovani na main vetvi
