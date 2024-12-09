@@ -2,3 +2,5 @@ Upraveny text
 Novy radek
 Treti radek
 Ctvrtey radek
+
+Omylem provedan uprava v main vetvi
