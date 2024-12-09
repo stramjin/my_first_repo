@@ -4,3 +4,4 @@ Treti radek
 Ctvrtey radek
 
 Omylem provedan uprava v main vetvi
+Omylem dodany radek
