@@ -1,3 +1,5 @@
 My first file
 
 ADDED NEW LINE
+
+Tady je zmena v branchi ctvrtek
