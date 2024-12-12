@@ -1,3 +1,5 @@
 My first file
 
 ADDED NEW LINE
+
+Zmena provedena, kdyz jsem byl ve vetvi ctvrtek
