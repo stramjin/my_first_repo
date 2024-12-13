@@ -6,3 +6,5 @@ Ctvrtey radek
 Omylem provedan uprava v main vetvi
 
 Upravenona NTB
+
+Tato uprava je provedena v ramci vetve pull request example
